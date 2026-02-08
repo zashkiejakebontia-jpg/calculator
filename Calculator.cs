@@ -33,7 +33,7 @@
                         Console.WriteLine(“Incorrect Operation Used, please try again”);
                         break;
             }
-           // return null;
+            return null;
         }
     
 }
